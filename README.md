@@ -1,4 +1,4 @@
-<h1 align="center">Ignite - Trilha ReactJS - Módulo 2 - Conceitos Importantes</h1>
+<h1 align="center">Ignite - Trilha ReactJS - Módulo 2 - Conceitos Importantes + Chamadas Htt</h1>
 
 #Índice
 - [🛠 Sobre o projeto](#-sobre-o-projeto)
